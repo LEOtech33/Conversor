@@ -23,8 +23,4 @@ O usuário pode escolher realizar outra conversão ou encerrar o programa.
 O Conversor de Moedas e Temperaturas foi desenvolvido em Java, utilizando a biblioteca Swing para a criação da interface gráfica.
 
 
-  <h3>Autor</h3>
-
-- Leonardo Soares 
-- Soaresleonardo11@gmail.com
 
